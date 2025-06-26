@@ -1,0 +1,7 @@
+Algoritmo Inorden(pos)
+    Si pos ≠ -1 Entonces
+        Inorden(Arbol[pos].izq)
+        Escribir Arbol[pos].nombre
+        Inorden(Arbol[pos].der)
+    FinSi
+FinAlgoritmo
