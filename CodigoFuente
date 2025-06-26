@@ -28,7 +28,7 @@ Nodo* insertar(Nodo* raiz, string nombre) {
     else if (nombre > raiz->nombre)
         raiz->der = insertar(raiz->der, nombre);
     else
-        cout << "⚠️ El nombre ya existe.\n";
+        cout << " El nombre ya existe.\n";
 
     return raiz;
 }
