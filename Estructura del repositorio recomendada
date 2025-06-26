@@ -1,0 +1,11 @@
+ArbolGenealogico_Grupo8/
+│
+├── README.md
+├── ArbolGenealogicoMenu.cpp  ← código principal con menú
+├── capturas/
+│   ├── insercion.png
+│   ├── inorden.png
+│   ├── commits_integrante1.png
+│   ├── ...
+├── documentos/
+│   └── Capitulo_2_Prototipo.docx
